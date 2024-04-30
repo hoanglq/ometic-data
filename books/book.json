@@ -32,7 +32,7 @@
         "cl": 11,
         "imgSmall": "toan-11-canh-dieu-tap-1.png",
         "name": "Toán 11 Cánh Diều - Tập 1",
-        "root": "https://github.com/hoanglq/ometic-data/blob/main/books/cl11/",
+        "root": "https://raw.githubusercontent.com/hoanglq/ometic-data/main/books/cl11/",
         "file": "toan-11-canh-dieu-tap-1.pdf"
     },
     {
@@ -40,7 +40,7 @@
         "cl": 11,
         "imgSmall": "toan-11-canh-dieu-tap-2.jpg",
         "name": "Toán 11 Cánh Diều - Tập 2",
-        "root": "https://github.com/hoanglq/ometic-data/blob/main/books/cl11/",
+        "root": "https://raw.githubusercontent.com/hoanglq/ometic-data/main/books/cl11/",
         "file": "toan-11-canh-dieu-tap-2.pdf"
     },
     {
@@ -48,7 +48,7 @@
         "cl": 11,
         "imgSmall": "toan-11-canh-dieu-tap-chuyen-de.jpg",
         "name": "Toán 11 Cánh Diều - Chuyên đề",
-        "root": "https://github.com/hoanglq/ometic-data/blob/main/books/cl11/",
+        "root": "https://raw.githubusercontent.com/hoanglq/ometic-data/main/books/cl11/",
         "file": "toan-11-canh-dieu-tap-chuyen-de.pdf"
     }
 ]
