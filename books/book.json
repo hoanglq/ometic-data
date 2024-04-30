@@ -1,6 +1,31 @@
 [
     {
-        "group": ""
+        "cls": [
+            "all",
+            "K8",
+            "K9",
+            "K10",
+            "K11",
+            "K12"
+        ],
+        "books": [
+            {
+                "value": "all",
+                "label": "Tất cả"
+            },
+            {
+                "value": "canh-dieu",
+                "label": "Cánh Diều"
+            },
+            {
+                "value": "knttvcs",
+                "label": "Kết nối TT vs CS"
+            },
+            {
+                "value": "ctst",
+                "label": "Chân trời sáng tạo"
+            }
+        ]
     },
     {
         "code": 1,
