@@ -8,6 +8,14 @@
             "K11",
             "K12"
         ],
+        "clNames": [
+            "Tất cả",
+            "Khối 8",
+            "Khối 9",
+            "Khối 10",
+            "Khối 11",
+            "Khối 12"
+        ],
         "books": [
             {
                 "value": "all",
