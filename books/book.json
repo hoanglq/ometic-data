@@ -1,12 +1,12 @@
 [
     {
         "cls": [
-            "all",
-            "K8",
-            "K9",
-            "K10",
-            "K11",
-            "K12"
+            0,
+            8,
+            9,
+            10,
+            11,
+            12
         ],
         "clNames": [
             "Tất cả",
@@ -33,86 +33,15 @@
                 "value": "ctst",
                 "label": "Chân trời sáng tạo"
             }
+        ],
+        "files": [
+            "k11.json"
+        ],
+        "subjects": [
+            {
+                "code": "toan",
+                "name": "Toán"
+            }
         ]
-    },
-    {
-        "code": 1,
-        "cl": 11,
-        "imgSmall": "toan-11-canh-dieu-tap-1.png",
-        "name": "Toán 11 Cánh Diều - Tập 1",
-        "root": "https://raw.githubusercontent.com/hoanglq/ometic-data/main/books/cl11/",
-        "file": "toan-11-canh-dieu-tap-1.pdf"
-    },
-    {
-        "code": 2,
-        "cl": 11,
-        "imgSmall": "toan-11-canh-dieu-tap-2.jpg",
-        "name": "Toán 11 Cánh Diều - Tập 2",
-        "root": "https://raw.githubusercontent.com/hoanglq/ometic-data/main/books/cl11/",
-        "file": "toan-11-canh-dieu-tap-2.pdf"
-    },
-    {
-        "code": 3,
-        "cl": 11,
-        "imgSmall": "toan-11-canh-dieu-tap-chuyen-de.jpg",
-        "name": "Toán 11 Cánh Diều - Chuyên đề",
-        "root": "https://raw.githubusercontent.com/hoanglq/ometic-data/main/books/cl11/",
-        "file": "toan-11-canh-dieu-tap-chuyen-de.pdf"
-    },
-    {
-        "code": 4,
-        "cl": 11,
-        "imgSmall": "toan-11-ket-noi-tt-cs-tap-1.jpg",
-        "name": "Toán 11 Kết Nối TT vs CS - Tập 1",
-        "root": "https://raw.githubusercontent.com/hoanglq/ometic-data/main/books/cl11/",
-        "file": "toan-11-ket-noi-tt-cs-tap-1.pdf"
-    },
-    {
-        "code": 5,
-        "cl": 11,
-        "imgSmall": "toan-11-ket-noi-tt-cs-tap-2.jpg",
-        "name": "Toán 11 Kết Nối TT vs CS - Tập 2",
-        "root": "https://raw.githubusercontent.com/hoanglq/ometic-data/main/books/cl11/",
-        "file": "toan-11-ket-noi-tt-cs-tap-2.pdf"
-    },
-    {
-        "code": 6,
-        "cl": 11,
-        "imgSmall": "toan-11-ket-noi-tt-cs-chuyen-de.jpg",
-        "name": "Toán 11 Kết Nối TT vs CS - Chuyên đề",
-        "root": "https://raw.githubusercontent.com/hoanglq/ometic-data/main/books/cl11/",
-        "file": "toan-11-ket-noi-tt-cs-chuyen-de.pdf"
-    },
-    {
-        "code": 7,
-        "cl": 11,
-        "imgSmall": "toan-11-ket-noi-tt-cs-sbt-tap-1.jpg",
-        "name": "Toán 11 (SBT) Kết Nối TT vs CS - Tập 1",
-        "root": "https://raw.githubusercontent.com/hoanglq/ometic-data/main/books/cl11/",
-        "file": "toan-11-ket-noi-tt-cs-sbt-tap-1.pdf"
-    },
-    {
-        "code": 8,
-        "cl": 11,
-        "imgSmall": "toan-11-ket-noi-tt-cs-sbt-tap-2.jpg",
-        "name": "Toán 11 (SBT) Kết Nối TT vs CS - Tập 2",
-        "root": "https://raw.githubusercontent.com/hoanglq/ometic-data/main/books/cl11/",
-        "file": "toan-11-ket-noi-tt-cs-sbt-tap-2.pdf"
-    },
-    {
-        "code": 9,
-        "cl": 11,
-        "imgSmall": "tin-11-canh-dieu-thud.jpg",
-        "name": "Tin 11 Cánh Diều - TH Ứng Dụng",
-        "root": "https://raw.githubusercontent.com/hoanglq/ometic-data/main/books/cl11/",
-        "file": "tin-11-canh-dieu-thud.pdf"
-    },
-    {
-        "code": 10,
-        "cl": 11,
-        "imgSmall": "tin-11-canh-dieu-khmt.jpg",
-        "name": "Tin 11 Cánh Diều - KHMT",
-        "root": "https://raw.githubusercontent.com/hoanglq/ometic-data/main/books/cl11/",
-        "file": "tin-11-canh-dieu-khmt.pdf"
     }
 ]
