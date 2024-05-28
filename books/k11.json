@@ -12,7 +12,7 @@
         "cl": 11,
         "imgSmall": "toan-11-canh-dieu-tap-2.jpg?alt=media&token=fb8d3472-b2fb-4e1a-81e9-cbebd5100f62",
         "name": "Toán 11 Cánh Diều - Tập 2",
-        "root": "https://raw.githubusercontent.com/hoanglq/ometic-data/main/books/cl11/",
+        "root": "https://firebasestorage.googleapis.com/v0/b/ometic-cad37.appspot.com/o/book11%2F",
         "file": "toan-11-canh-dieu-tap-2.pdf?alt=media&token="
     },
     {
@@ -20,7 +20,7 @@
         "cl": 11,
         "imgSmall": "toan-11-canh-dieu-tap-chuyen-de.jpg?alt=media&token=f4990a57-3828-404e-84d5-87122496ae7e",
         "name": "Toán 11 Cánh Diều - Chuyên đề",
-        "root": "https://raw.githubusercontent.com/hoanglq/ometic-data/main/books/cl11/",
+        "root": "https://firebasestorage.googleapis.com/v0/b/ometic-cad37.appspot.com/o/book11%2F",
         "file": "toan-11-canh-dieu-tap-chuyen-de.pdf?alt=media&token="
     },
     {
@@ -28,7 +28,7 @@
         "cl": 11,
         "imgSmall": "toan-11-ket-noi-tt-cs-tap-1.jpg?alt=media&token=510709a6-5112-4110-be82-4503bab7e6d1",
         "name": "Toán 11 Kết Nối TT vs CS - Tập 1",
-        "root": "https://raw.githubusercontent.com/hoanglq/ometic-data/main/books/cl11/",
+        "root": "https://firebasestorage.googleapis.com/v0/b/ometic-cad37.appspot.com/o/book11%2F",
         "file": "toan-11-ket-noi-tt-cs-tap-1.pdf?alt=media&token="
     },
     {
@@ -36,7 +36,7 @@
         "cl": 11,
         "imgSmall": "toan-11-ket-noi-tt-cs-tap-2.jpg?alt=media&token=",
         "name": "Toán 11 Kết Nối TT vs CS - Tập 2",
-        "root": "https://raw.githubusercontent.com/hoanglq/ometic-data/main/books/cl11/",
+        "root": "https://firebasestorage.googleapis.com/v0/b/ometic-cad37.appspot.com/o/book11%2F",
         "file": "toan-11-ket-noi-tt-cs-tap-2.pdf?alt=media&token="
     },
     {
@@ -44,7 +44,7 @@
         "cl": 11,
         "imgSmall": "toan-11-ket-noi-tt-cs-chuyen-de.jpg?alt=media&token=",
         "name": "Toán 11 Kết Nối TT vs CS - Chuyên đề",
-        "root": "https://raw.githubusercontent.com/hoanglq/ometic-data/main/books/cl11/",
+        "root": "https://firebasestorage.googleapis.com/v0/b/ometic-cad37.appspot.com/o/book11%2F",
         "file": "toan-11-ket-noi-tt-cs-chuyen-de.pdf?alt=media&token="
     },
     {
@@ -52,7 +52,7 @@
         "cl": 11,
         "imgSmall": "toan-11-ket-noi-tt-cs-sbt-tap-1.jpg?alt=media&token=",
         "name": "Toán 11 (SBT) Kết Nối TT vs CS - Tập 1",
-        "root": "https://raw.githubusercontent.com/hoanglq/ometic-data/main/books/cl11/",
+        "root": "https://firebasestorage.googleapis.com/v0/b/ometic-cad37.appspot.com/o/book11%2F",
         "file": "toan-11-ket-noi-tt-cs-sbt-tap-1.pdf?alt=media&token="
     },
     {
@@ -60,7 +60,7 @@
         "cl": 11,
         "imgSmall": "toan-11-ket-noi-tt-cs-sbt-tap-2.jpg?alt=media&token=",
         "name": "Toán 11 (SBT) Kết Nối TT vs CS - Tập 2",
-        "root": "https://raw.githubusercontent.com/hoanglq/ometic-data/main/books/cl11/",
+        "root": "https://firebasestorage.googleapis.com/v0/b/ometic-cad37.appspot.com/o/book11%2F",
         "file": "toan-11-ket-noi-tt-cs-sbt-tap-2.pdf?alt=media&token="
     },
     {
@@ -68,7 +68,7 @@
         "cl": 11,
         "imgSmall": "tin-11-canh-dieu-thud.jpg?alt=media&token=",
         "name": "Tin 11 Cánh Diều - TH Ứng Dụng",
-        "root": "https://raw.githubusercontent.com/hoanglq/ometic-data/main/books/cl11/",
+        "root": "https://firebasestorage.googleapis.com/v0/b/ometic-cad37.appspot.com/o/book11%2F",
         "file": "tin-11-canh-dieu-thud.pdf?alt=media&token="
     },
     {
@@ -76,7 +76,7 @@
         "cl": 11,
         "imgSmall": "tin-11-canh-dieu-khmt.jpg?alt=media&token=",
         "name": "Tin 11 Cánh Diều - KHMT",
-        "root": "https://raw.githubusercontent.com/hoanglq/ometic-data/main/books/cl11/",
+        "root": "https://firebasestorage.googleapis.com/v0/b/ometic-cad37.appspot.com/o/book11%2F",
         "file": "tin-11-canh-dieu-khmt.pdf?alt=media&token="
     }
 ]
