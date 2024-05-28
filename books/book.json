@@ -34,7 +34,7 @@
                 "label": "Chân trời sáng tạo"
             }
         ],
-        "root": "https://firebasestorage.googleapis.com/v0/b/ometic-cad37.appspot.com/o/",
+        "host": "https://firebasestorage.googleapis.com/v0/b/ometic-cad37.appspot.com/o/",
         "files": [
             "/books/k11.json"
         ],
