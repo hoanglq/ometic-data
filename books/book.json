@@ -18,20 +18,20 @@
         ],
         "books": [
             {
-                "value": "all",
-                "label": "Tất cả"
+                "code": "all",
+                "name": "Tất cả"
             },
             {
-                "value": "canh-dieu",
-                "label": "Cánh Diều"
+                "code": "canh-dieu",
+                "name": "Cánh Diều"
             },
             {
-                "value": "knttvcs",
-                "label": "Kết nối TT vs CS"
+                "code": "knttvcs",
+                "name": "Kết nối TT vs CS"
             },
             {
-                "value": "ctst",
-                "label": "Chân trời sáng tạo"
+                "code": "ctst",
+                "name": "Chân trời sáng tạo"
             }
         ],
         "host": "https://firebasestorage.googleapis.com/v0/b/ometic-cad37.appspot.com/o/",
